@@ -1,11 +1,17 @@
 # CGI_Assignment
 
 
-### Ouptut for case 1:
-![Case 1](images/task1.png)
+### Ouptut for case 1:<br>
 
-### Output for case 2:
-![Case 2](images/task2.png)
+**[(1, 1), (2, 1), (3, 2), (4, 2), (5, 3), (6, 3), (7, 4), (8, 4)]** <br><br>
+
+![Case 1](images/task1.png)<br>
+
+### Output for case 2:<br>
+
+**[(1, 1), (1, 2), (2, 3), (2, 4), (3, 5), (3, 6), (4, 7), (4, 8)]** <br><br>
+
+![Case 2](images/task2.png)<br>
 
 ## Explain what adjustments to the algorithm you have made for the slope of m>1 and why?
 
